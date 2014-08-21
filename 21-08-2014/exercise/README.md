@@ -1,7 +1,7 @@
 #CK0110 - PROGRAMAÇÃO
 ##21/08/2014
 
-[Enunciados dos exercícios]((https://github.com/vinimdocarmo/CK0110/tree/master/21-08-2014/exercise/document.pdf)
+[Enunciados dos exercícios](https://github.com/vinimdocarmo/CK0110/tree/master/21-08-2014/exercise/document.pdf)
 
 [Solução Exercício 1](https://github.com/vinimdocarmo/CK0110/tree/master/21-08-2014/exercise/ex1.c)
 
