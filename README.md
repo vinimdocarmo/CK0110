@@ -1,7 +1,7 @@
 #CK0110 - PROGRAMAÇÃO
 ##Semestre 2014.2
 
-Anotações, códigos e tarefas da disciplina de Programação do curso de Computação da UFC. 💻 🎓
+Anotações, códigos e tarefas da disciplina de Programação do curso de Computação da UFC. :computer: :mortar_board:�
 
 ###Aulas
 
