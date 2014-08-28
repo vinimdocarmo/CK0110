@@ -1,9 +1,14 @@
 #CK0110 - PROGRAMAÇÃO
-##Aulas
-[31/07/2014](https://github.com/vinimdocarmo/CK0110/tree/master/31-07-2014)
+##Semestre 2014.2
 
-[14/08/2014](https://github.com/vinimdocarmo/CK0110/tree/master/14-08-2014)
+Anotações, códigos e tarefas da disciplina de Programação do curso de Computação da UFC. 💻 🎓
 
-[21/08/2014](https://github.com/vinimdocarmo/CK0110/tree/master/21-08-2014)
+###Aulas
 
-[28/08/2014](https://github.com/vinimdocarmo/CK0110/tree/master/28-08-2014)
+[Apresentação da Disciplina - 31/07/2014](https://github.com/vinimdocarmo/CK0110/tree/master/31-07-2014)
+
+[Introdução à Linguagem de Programação C - 14/08/2014](https://github.com/vinimdocarmo/CK0110/tree/master/14-08-2014)
+
+[Introdução à Linguagem de Programação C - 21/08/2014](https://github.com/vinimdocarmo/CK0110/tree/master/21-08-2014)
+
+[Introdução à Linguagem C (Tipos de Dados, Vetores e Matrizes) - 28/08/2014](https://github.com/vinimdocarmo/CK0110/tree/master/28-08-2014)
