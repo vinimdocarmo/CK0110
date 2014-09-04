@@ -12,3 +12,5 @@ Anotações, códigos e tarefas da disciplina de Programação do curso de Compu
 [Introdução à Linguagem de Programação C - 21/08/2014](https://github.com/vinimdocarmo/CK0110/tree/master/21-08-2014)
 
 [Introdução à Linguagem C (Tipos de Dados, Vetores e Matrizes) - 28/08/2014](https://github.com/vinimdocarmo/CK0110/tree/master/28-08-2014)
+
+[Introdução à Linguagem C (Ponteiros, Alocação de Memória e Strings) - 04/09/2014](https://github.com/vinimdocarmo/CK0110/tree/master/04-09-2014)
